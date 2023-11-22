@@ -1,3 +1,3 @@
 #!/bin/bash
-python server.py &
-ngrok http http://localhost:5000 &
+python3 server.py &
+ngrok http http://localhost:5000
